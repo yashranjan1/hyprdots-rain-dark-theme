@@ -1,4 +1,0 @@
-"custom/rofi": {
-    "format":"󰣇",
-    "on-click": "exec pkill -x rofi"
-},

@@ -1,4 +1,0 @@
-"custom/dolphin": {
-    "format":"󰣇",
-    "on-click": "exec dolphin"
-},

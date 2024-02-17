@@ -1,5 +1,0 @@
-"custom/rofi": {
-    "format":"{icon} ",
-    "on-click": "exec ~/.config/hypr/scripts/rofilaunch.sh d",
-    "format-icons": ["󰣇"]
-},
